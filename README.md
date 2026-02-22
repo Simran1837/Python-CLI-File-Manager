@@ -31,7 +31,7 @@ A simple Command-Line File Manager built using Python that performs CRUD operati
 ## ▶️ How to Run
 
 ```bash
-python file_manager.py
+python src/file_manager.py
 ```
 
 ## 📷 Example Menu
